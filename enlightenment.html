@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		html, body{
+			height: 100%;
+			width: 100%;
+			background-color: black;
+			color: red;
+		}
+		::-webkit-scrollbar {
+		    display: none;
+		}
+	</style>
+	<title>Csn93hI78Ho</title>
+</head>
+<body>
+	<img src="eyes.png" alt="madness" style="height: 90%; width: auto"></img>
+	<p>5/25</p>
+	<p>Keep looking. <br>Not now, <br>but keep looking</p>
+	<script>
+    function enterFullscreen() {
+      const el = document.documentElement;
+
+      if (el.requestFullscreen) {
+        el.requestFullscreen();
+      } else if (el.webkitRequestFullscreen) { // Safari
+        el.webkitRequestFullscreen();
+      } else if (el.msRequestFullscreen) { // IE11
+        el.msRequestFullscreen();
+      }
+
+      // Only run once
+      document.removeEventListener('click', enterFullscreen);
+    }
+
+    // Listen for first click anywhere
+    document.addEventListener('click', enterFullscreen);
+  </script>
+</body>
+</html>
