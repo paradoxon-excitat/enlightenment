@@ -179,5 +179,28 @@
       "mp": "green",
       "ls": 0
     }
+  ],
+  "Archived": [
+    {
+      "name": "Dassault-Dornier Alpha Jet (by GeoFS)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/alphajet_380019_5403/",
+      "id": 3,
+      "mp": "green",
+      "ls": 0
+    },
+    {
+      "name": "Douglas DC-3 (by GeoFS)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/dc3_380019_5401/",
+      "id": 16,
+      "mp": "green",
+      "ls": 0
+    },
+    {
+      "name": "Airbus A380 (by GeoFS)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/a380_380019_5402/",
+      "id": 1012,
+      "mp": "green",
+      "ls": 0
+    }
   ]
 }
