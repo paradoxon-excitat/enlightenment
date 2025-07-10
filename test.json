@@ -64,6 +64,13 @@
       "ls": 1
     },
     {
+      "name": "Ilyushin Il-14 (by GeoFS & AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/il14_380019_5456/",
+      "id": 16,
+      "mp": "green",
+      "ls": 1
+    },
+    {
       "name": "Cessna 337 Super Skymaster (by Nightheart)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/Cessna%20Skymaster%20(Nightheart/Kitten-cat)_380019_4792/",
       "id": 1022,
