@@ -111,6 +111,13 @@
       "id": 2000,
       "mp": "red",
       "ls": 0
+    },
+    {
+      "name": "Boeing 777-200ER (by MirageModels)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/Boeing%20777-200ER_448101_5460/",
+      "id": 1005,
+      "mp": "yellow",
+      "ls": 0
     }
   ],
   "Ground Vehicles": [
@@ -203,6 +210,13 @@
   ],
   "Archived": [
     {
+      "name": "Piper Cub (by GeoFS)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/cub_380019_5480/",
+      "id": 1,
+      "mp": "green",
+      "ls": 0
+    },
+    {
       "name": "Dassault-Dornier Alpha Jet (by GeoFS)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/alphajet_380019_5403/",
       "id": 3,
@@ -227,6 +241,13 @@
       "name": "Concorde (by GeoFS)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/Concorde_380019_5450/",
       "id": 20,
+      "mp": "green",
+      "ls": 0
+    },
+    {
+      "name": "Sukhoi Su-35 (by GeoFS)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/su35_380019_5458/",
+      "id": 18,
       "mp": "green",
       "ls": 0
     }
