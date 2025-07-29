@@ -180,8 +180,8 @@
     {
       "name": "Mazda MX-5 Miata (by MirageModels)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/miata2_380019_5509/",
-      "id": 102,
-      "mp": "yellow",
+      "id": 5509,
+      "mp": "addon",
       "ls": 0
     },
     {
@@ -238,8 +238,8 @@
     {
       "name": "Type 055 Destroyer (by MirageModels)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/type055_380019_5388/",
-      "id": 2000,
-      "mp": "red",
+      "id": 5388,
+      "mp": "addon",
       "ls": 0
     },
     {
