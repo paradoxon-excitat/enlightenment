@@ -39,7 +39,8 @@
       "name": "Paramotor (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/A160_267286_3007/",
       "dir": "|backend|aircraft|repository|A160_267286_3007|",
-      "id": 3007,
+      "id": 50,
+      "fakeId": 3007,
       "mp": "addon",
       "ls": 0
     },
@@ -47,7 +48,8 @@
       "name": "Starship SN5 (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/P180Y_267286_3557/",
       "dir": "|backend|aircraft|repository|P180Y_267286_3557|",
-      "id": 3557,
+      "id": 2000,
+      "fakeId": 3557,
       "mp": "addon",
       "ls": 0
     },
@@ -55,7 +57,8 @@
       "name": "Ilyushin Il-76TD (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/NK-V_267286_2525/",
       "dir": "|backend|aircraft|repository|NK-V_267286_2525|",
-      "id": 2525,
+      "id": 1014,
+      "fakeId": 2525,
       "mp": "addon",
       "ls": 1
     },
@@ -63,7 +66,8 @@
       "name": "ATR 42-600 (by AF267 & Luca)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/P134_267286_5506/",
       "dir": "|backend|aircraft|repository|P134_267286_5506|",
-      "id": 5506,
+      "id": 1013,
+      "fakeId": 5506,
       "mp": "addon",
       "ls": 0
     },
@@ -106,7 +110,8 @@
       "name": "Bombardier Challenger 650 (by Ryan Xu)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/c650_380019_5390/",
       "dir": "|backend|aircraft|repository|c650_380019_5390|",
-      "id": 5390,
+      "id": 2706,
+      "fakeId": 5390,
       "mp": "addon",
       "ls": 0
     },
@@ -114,7 +119,8 @@
       "name": "Airbus A400M Atlas (by Aero281)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/A400M_380019_5451/",
       "dir": "|backend|aircraft|repository|A400M_380019_5451|",
-      "id": 5451,
+      "id": 1013,
+      "fakeId": 5451,
       "mp": "addon",
       "ls": 0
     },
@@ -173,7 +179,8 @@
       "name": "XTerra SUV (2024 APRIL FOOLS) (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/NeoAD XTerra_267286_4894/",
       "dir": "|backend|aircraft|repository|NeoAD XTerra_267286_4894|",
-      "id": 4894,
+      "id": 1027,
+      "fakeId": 4894,
       "mp": "addon",
       "ls": 0
     },
@@ -181,7 +188,8 @@
       "name": "Sagittarius Hypercar (2025 APRIL FOOLS) (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/Steelbird Sagittarius Pulsar_267286_5155/",
       "dir": "|backend|aircraft|repository|Steelbird Sagittarius Pulsar_267286_5155|",
-      "id": 5155,
+      "id": 102,
+      "fakeId": 5155,
       "mp": "addon",
       "ls": 0
     },
@@ -189,7 +197,8 @@
       "name": "Mazda MX-5 Miata (by MirageModels)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/miata2_380019_5509/",
       "dir": "|backend|aircraft|repository|miata2_380019_5509|",
-      "id": 5509,
+      "id": 102,
+      "fakeId": 5509,
       "mp": "addon",
       "ls": 0
     },
@@ -206,7 +215,8 @@
       "name": "CMV Probability Megayacht (2025 APRIL FOOLS) (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/CMV Probability_267286_5009/",
       "dir": "|backend|aircraft|repository|CMV Probability_267286_5009|",
-      "id": 5009,
+      "id": 2000,
+      "fakeId": 5009,
       "mp": "addon",
       "ls": 0
     },
@@ -249,7 +259,8 @@
       "name": "Type 055 Destroyer (by MirageModels)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/type055_380019_5388/",
       "dir": "|backend|aircraft|repository|type055_380019_5388|",
-      "id": 5388,
+      "id": 2000,
+      "fakeId": 5388,
       "mp": "addon",
       "ls": 0
     },
