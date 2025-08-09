@@ -270,6 +270,13 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
+                {
+                    "name": "Minus A220",
+                    "texture": [
+                        "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/Minus%20789.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
@@ -286,6 +293,13 @@
         "2899": {
             "name": "Airbus a220-300",
             "liveries": [
+                {
+                    "name": "Minus A220",
+                    "texture": [
+                        "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/Minus%20A220.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
@@ -429,6 +443,13 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+                {
+                    "name": "Minus A220",
+                    "texture": [
+                        "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/Minus%20A321.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
