@@ -271,7 +271,7 @@
             "name": "Boeing b787-9",
             "liveries": [
                 {
-                    "name": "Minus A220",
+                    "name": "Minus 787",
                     "texture": [
                         "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/Minus%20789.png"
                     ],
@@ -444,7 +444,7 @@
             "name": "Airbus a321neo",
             "liveries": [
                 {
-                    "name": "Minus A220",
+                    "name": "Minus A321",
                     "texture": [
                         "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/Minus%20A321.png"
                     ],
