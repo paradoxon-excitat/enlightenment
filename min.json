@@ -435,6 +435,13 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+                {
+                    "name": "NeoTran Skycompass",
+                    "texture": [
+                        "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/Minus%20A330.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
