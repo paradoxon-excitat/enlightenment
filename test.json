@@ -23,10 +23,10 @@
     },
     {
       "name": "Embraer E190 (ADSB)",
-      "url": "https://www.geo-fs.com/backend/aircraft/repository/e190_380019_5372/",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/embraer_267286_5681/",
       "id": 1018,
       "mp": "green",
-      "ls": 0
+      "ls": 1
     },
     {
       "name": "Bombardier CRJ900 (ADSB)",
@@ -38,38 +38,37 @@
     {
       "name": "Paramotor (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/A160_267286_3007/",
-      "dir": "|backend|aircraft|repository|A160_267286_3007|",
-      "id": 50,
-      "fakeId": 3007,
+      "id": 3007,
       "mp": "addon",
       "ls": 0
     },
     {
       "name": "Starship SN5 (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/P180Y_267286_3557/",
-      "dir": "|backend|aircraft|repository|P180Y_267286_3557|",
-      "id": 2000,
-      "fakeId": 3557,
+      "id": 3557,
       "mp": "addon",
       "ls": 0
     },
     {
       "name": "Ilyushin Il-76TD (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/NK-V_267286_2525/",
-      "dir": "|backend|aircraft|repository|NK-V_267286_2525|",
       "id": 1014,
-      "fakeId": 2525,
       "mp": "addon",
       "ls": 1
     },
     {
       "name": "ATR 42-600 (by AF267 & Luca)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/P134_267286_5506/",
-      "dir": "|backend|aircraft|repository|P134_267286_5506|",
       "id": 1013,
-      "fakeId": 5506,
       "mp": "addon",
       "ls": 0
+    },
+    {
+      "name": "Boeing 747-8F (by AF267 & Luca)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/p19f_267286_5606/",
+      "id": 252,
+      "mp": "addon",
+      "ls": 1
     },
     {
       "name": "Piper PA-18 Super Cub (by GeoFS & AF267)",
@@ -83,6 +82,13 @@
       "url": "https://www.geo-fs.com/backend/aircraft/repository/il14_380019_5456/",
       "id": 16,
       "mp": "green",
+      "ls": 1
+    },
+    {
+      "name": "Boeing 777-9X (by GeoFS & AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/777x_267286_5635/",
+      "id": 1005,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -104,23 +110,47 @@
       "url": "https://www.geo-fs.com/backend/aircraft/repository/Sikorsky UH-60 Black Hawk_380019_3068/",
       "id": 2806,
       "mp": "yellow",
-      "ls": 0
+      "ls": 1
+    },
+    {
+      "name": "Boeing 737-900 (by Spice_9 & Luca)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/739_380019_5535/",
+      "id": 1001,
+      "mp": "addon",
+      "ls": 1
+    },
+    {
+      "name": "Airbus A320-100 (by Spice_9 & Luca)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/a320_267286_5683/",
+      "id": 3534,
+      "mp": "green",
+      "ls": 1
+    },
+    {
+      "name": "Boeing KC-135R Stratotanker (by Spice_9 & AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/kc135_267286_5727/",
+      "id": 2003,
+      "mp": "addon",
+      "ls": 1
+    },
+    {
+      "name": "Tupolev Tu-204-100 (by Spice_9 & AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/tu204_267286_5777/",
+      "id": 242,
+      "mp": "addon",
+      "ls": 1
     },
     {
       "name": "Bombardier Challenger 650 (by Ryan Xu)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/c650_380019_5390/",
-      "dir": "|backend|aircraft|repository|c650_380019_5390|",
-      "id": 2706,
-      "fakeId": 5390,
+      "id": 1015,
       "mp": "addon",
       "ls": 0
     },
     {
       "name": "Airbus A400M Atlas (by Aero281)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/A400M_380019_5451/",
-      "dir": "|backend|aircraft|repository|A400M_380019_5451|",
-      "id": 1013,
-      "fakeId": 5451,
+      "id": 1010,
       "mp": "addon",
       "ls": 0
     },
@@ -132,17 +162,31 @@
       "ls": 0
     },
     {
+      "name": "Ilyushin Il-96-300 (by Aero281 & AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/il96_267286_5884/",
+      "id": 2951,
+      "mp": "yellow",
+      "ls": 1
+    },
+    {
+      "name": "Ilyushin Il-96-400M (by Aero281 & AF267 & Luca)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/il94_267286_5887/",
+      "id": 2951,
+      "mp": "yellow",
+      "ls": 1
+    },
+    {
       "name": "Boeing 777-200ER (by MirageModels)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/72e_380019_5519/",
-      "id": 1005,
-      "mp": "yellow",
+      "id": 240,
+      "mp": "addon",
       "ls": 1
     },
     {
       "name": "Boeing 777-200 (by MirageModels)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/72_380019_5518/",
-      "id": 1005,
-      "mp": "yellow",
+      "id": 240,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -161,10 +205,17 @@
     },
     {
       "name": "Airbus A350-1000 XWB (by NS-Studios)",
-      "url": "https://www.geo-fs.com/backend/aircraft/repository/a35kc_267286_5514/",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/a35k0_267286_5805/",
       "id": 2973,
       "mp": "green",
       "ls": 1
+    },
+    {
+      "name": "Beta Alia A250 (by coolpilot11 & AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/a250_267286_5761/",
+      "id": 5002,
+      "mp": "green",
+      "ls": 0
     }
   ],
   "Ground Vehicles": [
@@ -178,34 +229,35 @@
     {
       "name": "XTerra SUV (2024 APRIL FOOLS) (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/NeoAD XTerra_267286_4894/",
-      "dir": "|backend|aircraft|repository|NeoAD XTerra_267286_4894|",
-      "id": 1027,
-      "fakeId": 4894,
+      "id": 1019,
       "mp": "addon",
       "ls": 0
     },
     {
       "name": "Sagittarius Hypercar (2025 APRIL FOOLS) (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/Steelbird Sagittarius Pulsar_267286_5155/",
-      "dir": "|backend|aircraft|repository|Steelbird Sagittarius Pulsar_267286_5155|",
-      "id": 102,
-      "fakeId": 5155,
+      "id": 1026,
       "mp": "addon",
       "ls": 0
+    },
+    {
+      "name": "Budd Metroliner (by AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/metroliner_267286_5772/",
+      "id": 1027,
+      "mp": "red",
+      "ls": 1
     },
     {
       "name": "Mazda MX-5 Miata (by MirageModels)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/miata2_380019_5509/",
-      "dir": "|backend|aircraft|repository|miata2_380019_5509|",
-      "id": 102,
-      "fakeId": 5509,
+      "id": 5509,
       "mp": "addon",
       "ls": 0
     },
     {
-      "name": "Budd Metroliner (by Plane2222222)",
-      "url": "https://www.geo-fs.com/backend/aircraft/repository/metroliner_380019_5463/",
-      "id": 2000,
+      "name": "Nova Bus LFS (by MirageModels)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/novabus_267286_5807/",
+      "id": 1027,
       "mp": "red",
       "ls": 0
     }
@@ -214,9 +266,7 @@
     {
       "name": "CMV Probability Megayacht (2025 APRIL FOOLS) (by AF267)",
       "url": "https://www.geo-fs.com/backend/aircraft/repository/CMV Probability_267286_5009/",
-      "dir": "|backend|aircraft|repository|CMV Probability_267286_5009|",
-      "id": 2000,
-      "fakeId": 5009,
+      "id": 1011,
       "mp": "addon",
       "ls": 0
     },
@@ -256,12 +306,38 @@
       "ls": 1
     },
     {
-      "name": "Type 055 Destroyer (by MirageModels)",
-      "url": "https://www.geo-fs.com/backend/aircraft/repository/type055_380019_5388/",
-      "dir": "|backend|aircraft|repository|type055_380019_5388|",
-      "id": 2000,
-      "fakeId": 5388,
+      "name": "Concorde Duplex (by AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/duplex_267286_5715/",
+      "id": 1000,
       "mp": "addon",
+      "ls": 1
+    },
+    {
+      "name": "Airbus A370-800 (by GeoFS & AF267)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/a378_267286_5757/",
+      "id": 24,
+      "mp": "yellow",
+      "ls": 0
+    },
+    {
+      "name": "Type 055 Destroyer (by MirageModels)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/t055_267286_5682/",
+      "id": 1024,
+      "mp": "addon",
+      "ls": 0
+    },
+    {
+      "name": "Permit-Class Submarine (by MirageModels)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/permit_267286_5808/",
+      "id": 1003,
+      "mp": "yellow",
+      "ls": 0
+    },
+    {
+      "name": "Zumwalt-Class Destroyer (by MirageModels)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/zumwalt_267286_5809/",
+      "id": 1024,
+      "mp": "yellow",
       "ls": 0
     },
     {
@@ -269,6 +345,27 @@
       "url": "https://www.geo-fs.com/backend/aircraft/repository/Jetpack_380019_5385/",
       "id": 103,
       "mp": "green",
+      "ls": 0
+    },
+    {
+      "name": "Project 15A Kolkata-Class Destroyer (by Spice_9)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/kolkata_380019_5536/",
+      "id": 1003,
+      "mp": "addon",
+      "ls": 0
+    },
+    {
+      "name": "'Weather Balloon' (by [AIRFRANCEHEAVY])",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/balloon_380019_5647/",
+      "id": 2000,
+      "mp": "red",
+      "ls": 0
+    },
+    {
+      "name": "Type 052D Missile Destroyer (by randompersonintheworld)",
+      "url": "https://www.geo-fs.com/backend/aircraft/repository/t052_267286_5719/",
+      "id": 1024,
+      "mp": "yellow",
       "ls": 0
     }
   ],
