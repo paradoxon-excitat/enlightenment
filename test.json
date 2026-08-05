@@ -149,8 +149,8 @@
       "author": "Nightheart",
       "url": "/backend/aircraft/repository/Cessna%20Skymaster%20(Nightheart/Kitten-cat)_380019_4792/",
       "id": 1022,
-      "mpid": 1022,
-      "mp": "yellow",
+      "mpid": 4792,
+      "mp": "addon",
       "ls": 0
     },
     {
@@ -167,8 +167,8 @@
       "author": "Spice_9",
       "url": "/backend/aircraft/repository/Sikorsky UH-60 Black Hawk_380019_3068/",
       "id": 2806,
-      "mpid": 2806,
-      "mp": "yellow",
+      "mpid": 3068,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -176,8 +176,8 @@
       "author": "Spice_9 & CP8888",
       "url": "/backend/aircraft/repository/738nw_267286_6124/",
       "id": 3054,
-      "mpid": 6124,
-      "mp": "addon",
+      "mpid": 3054,
+      "mp": "green",
       "ls": 1
     },
     {
@@ -248,8 +248,8 @@
       "author": "Aero281",
       "url": "/backend/aircraft/repository/nEUROn_380019_5452/",
       "id": 2000,
-      "mpid": 2000,
-      "mp": "red",
+      "mpid": 5452,
+      "mp": "addon",
       "ls": 0
     },
     {
@@ -257,8 +257,8 @@
       "author": "Aero281 & AF267",
       "url": "/backend/aircraft/repository/il96_267286_5884/",
       "id": 2951,
-      "mpid": 2951,
-      "mp": "yellow",
+      "mpid": 5884,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -266,8 +266,8 @@
       "author": "Aero281, AF267, & Luca",
       "url": "/backend/aircraft/repository/il94_267286_5887/",
       "id": 2951,
-      "mpid": 2951,
-      "mp": "yellow",
+      "mpid": 5884,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -329,8 +329,8 @@
       "author": "NS-Studios & AF267",
       "url": "/backend/aircraft/repository/an124_267286_6014/",
       "id": 2788,
-      "mpid": 2788,
-      "mp": "yellow",
+      "mpid": 6014,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -385,8 +385,8 @@
       "author": "AF267",
       "url": "/backend/aircraft/repository/metroliner_267286_5772/",
       "id": 1027,
-      "mpid": 1027,
-      "mp": "red",
+      "mpid": 5772,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -394,8 +394,8 @@
       "author": "AF267",
       "url": "/backend/aircraft/repository/genesis_267286_5909/",
       "id": 1027,
-      "mpid": 1027,
-      "mp": "red",
+      "mpid": 5909,
+      "mp": "addon",
       "ls": 1
     },
     {
@@ -412,8 +412,8 @@
       "author": "MirageModels",
       "url": "/backend/aircraft/repository/novabus_267286_5807/",
       "id": 1027,
-      "mpid": 1027,
-      "mp": "red",
+      "mpid": 5807,
+      "mp": "addon",
       "ls": 0
     }
   ],
@@ -441,8 +441,8 @@
       "author": "MirageModels",
       "url": "/backend/aircraft/repository/permit_267286_5808/",
       "id": 1003,
-      "mpid": 1003,
-      "mp": "yellow",
+      "mpid": 5808,
+      "mp": "addon",
       "ls": 0
     },
     {
@@ -450,8 +450,8 @@
       "author": "MirageModels",
       "url": "/backend/aircraft/repository/zumwalt_267286_5809/",
       "id": 1024,
-      "mpid": 1024,
-      "mp": "yellow",
+      "mpid": 5809,
+      "mp": "addon",
       "ls": 0
     },
     {
@@ -468,8 +468,8 @@
       "author": "randompersonintheworld",
       "url": "/backend/aircraft/repository/t052_267286_5719/",
       "id": 1024,
-      "mpid": 1024,
-      "mp": "yellow",
+      "mpid": 5719,
+      "mp": "addon",
       "ls": 0
     },
     {
