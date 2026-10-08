@@ -276,6 +276,13 @@
                         "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/Minus%20789.png"
                     ],
                     "credits": "AF267"
+                },
+                {
+                    "name": "NeoIn Skycompass",
+                    "texture": [
+                        "https://raw.githubusercontent.com/paradoxon-excitat/enlightenment/refs/heads/main/N30IN.jpg"
+                    ],
+                    "credits": "AF267"
                 }
             ],
             "labels": [
